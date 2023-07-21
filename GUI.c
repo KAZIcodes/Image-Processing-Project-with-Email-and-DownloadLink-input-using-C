@@ -1025,7 +1025,7 @@ void get_by_email(GtkWidget * window)
     // Create the text box
     
     GtkWidget * label = gtk_label_new("Send your image file to the email below: #bos_be_kazeron");
-    GtkWidget * label2 = gtk_label_new("drprojepop@gmail.com");
+    GtkWidget * label2 = gtk_label_new("youremail@gmail.com");
     GtkWidget * label0 = gtk_label_new("");
     GtkWidget * label01 = gtk_label_new("");
     if (approvedemail){
