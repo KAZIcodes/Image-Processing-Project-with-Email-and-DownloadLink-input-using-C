@@ -16,6 +16,5 @@ TECHNICAL NOTE:
   3. BE AWARE: The Email section of the project is based on imap protocol of google at the time of writing the project and if the protocol is changed       or modified, you should update the parsing section of the code(which is handeled explicitly and without any library) accordingly.
     
 
-  Libraries Used: GTK3, Openssl, libb64, libcurl, STBimage (note that they may have some dependencies)
-
+  Libraries Used: GTK3, Openssl, libb64, libcurl, STBimage (note that they may have some dependencies).
 
