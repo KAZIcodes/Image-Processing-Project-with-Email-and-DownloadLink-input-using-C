@@ -662,8 +662,8 @@ void approve_button_clicked(GtkWidget * button, gpointer data){
     email_input = 1;
     */
 
-    char *email_username = "drprojepop@gmail.com";
-    char *email_pass = "tpakkywaitldpmrf";
+    char *email_username = "youremail@gmail.com";
+    char *email_pass = "yourpassword";
     char *server = "imaps://imap.gmail.com";
     strcpy(file_name, "decoded_image.jpg");
     if (downloadLastEmailAttachment(server, email_username, email_pass)){
