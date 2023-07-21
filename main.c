@@ -93,10 +93,10 @@ int main()
         {
             // Email info that this program works with:
             email_input = 1;
-            char *email_username = "drprojepop@gmail.com";
-            char *email_pass = "tpakkywaitldpmrf";
+            char *email_username = "youremail@gmail.com";
+            char *email_pass = "yourpassword";
             char *server = "imaps://imap.gmail.com";
-            printf("Send your image without any subject to this Email address: drprojepop@gmail.com\n");
+            printf("Send your image without any subject to this Email address: youremail@gmail.com\n");
             printf("When you sent the Email enter y: ");
             char temp;
             scanf("%s", &temp);
