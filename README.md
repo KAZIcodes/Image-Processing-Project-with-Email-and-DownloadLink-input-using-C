@@ -2,10 +2,10 @@
 Image Processing Project with Email and DownloadLink User's image input Supported using C
 Advanced Programing Course Project at Shiraz University
 
-General Description:
-You can input your image in 3 ways: 1.image file from directory 2.send it via Email 3.download link to the image
-and there are 3 supported image formats: PNG, JPG(also JPEG) and BMP(BMP is handeled explicitly and without any library).
-The algorithm of filters with improve or improvised title are completely our own ideas influenced by some photoshop features and are not from other sources.
+GENERAL DESCRIPTION:
+  You can input your image in 3 ways: 1.image file from directory 2.send it via Email 3.download link to the image
+  and there are 3 supported image formats: PNG, JPG(also JPEG) and BMP(BMP is handeled explicitly and without any library).
+  The algorithm of filters with improve or improvised title are completely our own ideas influenced by some photoshop features and are not from other    sources.
 
 
 
