@@ -2,7 +2,7 @@
 Image Processing Project with Email and DownloadLink User's image input Supported using C for
 Advanced Programing Course at Shiraz University
 
-GENERAL DESCRIPTION:
+GENERAL DESCRIPTION:<br>
   You can input your image in 3 ways:
   1. Image file that is available locally
   2. Send the image file via email
