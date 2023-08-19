@@ -1,4 +1,4 @@
-# Image-Processing-using-C
+# Image-Processing-Project-with-Email-and-DownloadLink-input-using-C
 Image Processing Project with Email and DownloadLink User's image input Supported using C for
 Advanced Programing Course at Shiraz University
 
